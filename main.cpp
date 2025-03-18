@@ -1,5 +1,6 @@
 #include <iostream>
 
-void main(){
-  std::cout<<"Shota, Carrier of Internships"std::endl;
+int main() {
+    std::cout << "Hello, PES1UG22CS541!" << std::endl;
+    return 0;
 }
