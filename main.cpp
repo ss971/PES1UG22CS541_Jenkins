@@ -1,5 +1,5 @@
 #include <iostream>
-use namespace std;
+
 void main(){
-  cout<<"Shota, Carrier of Internships";
+  std::cout<<"Shota, Carrier of Internships"std::endl;
 }
